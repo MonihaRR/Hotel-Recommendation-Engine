@@ -3,10 +3,10 @@ We aimed to create a hotel recommendation system by working with the sentiment a
 
 
 Running the last User Interface cell will display a window as follows:-
-UI%20-%20AI%201.JPG
+![UI - AI 1](https://user-images.githubusercontent.com/63999177/179422875-8194a8a1-426f-48d4-a184-5ccbf8ce9894.JPG)
 
 When the selected city is not present in the selected country, We get the following output:-
-UI%20-%20AI%202.JPG
+![UI - AI 2](https://user-images.githubusercontent.com/63999177/179422885-d5040261-069b-4782-b84f-43d241af56a2.JPG)
 
 When the appropriate city and filter is added, we get the following output:-
-UI%20-%20AI%2033.jpg
+![UI - AI 3](https://user-images.githubusercontent.com/63999177/179422900-06c9c369-2eb6-4996-8a7c-d02368ab0332.JPG)
